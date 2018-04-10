@@ -13,10 +13,11 @@ En desarrollo...
 <!-- prettier-ignore -->
 - [x] Configuración de Tailwind.
 - [x] Configuración de Purgecss.
-- [ ]  Google spreadsheet.
-- [ ]  Deployment con now.
-- [ ]  Deployment con Firebase.
-- [ ]  Deployment con Netlify.
+- [ ] Google spreadsheet.
+- [ ] Medium source 
+- [ ] Deployment con now.
+- [ ] Deployment con Firebase.
+- [ ] Deployment con Netlify.
 
 <hr>
 
